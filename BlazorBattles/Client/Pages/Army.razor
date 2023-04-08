@@ -1,0 +1,31 @@
+﻿
+@page "/army"
+@inject IUnitService UnitService
+
+<h3>MyArmy</h3>
+
+<table class="table">
+	@foreach (var userunit in UnitService.MyUnits)
+	{
+		<tr>
+			<td>
+				@switch (userunit.UnitId)
+				{
+					case 1: <img src="icons/knight.png"> break;
+					case 2: <img src = "icons/archer.png" > break;
+					case 3: <img src = "icons/mage.png" > break;
+				}
+			</td>
+			<td>
+				@UnitService.Units.First(u => u.Id == userunit.UnitId).Title
+			</td>
+			<td>
+				@userunit.HitPoints HP
+			</td>
+		</tr>
+	}
+</table>
+
+@code {
+
+}
