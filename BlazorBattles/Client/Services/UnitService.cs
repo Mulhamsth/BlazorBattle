@@ -1,9 +1,16 @@
 ﻿using BlazorBattles.Shared;
+using Blazored.Toast.Services;
 
 namespace BlazorBattles.Client.Services
 {
 	public class UnitService : IUnitService
 	{
+		private readonly IToastService toastservice;
+
+		public UnitService(IToastService toastservice) 
+		{
+			this.toastservice = toastservice;
+		}
 		public IList<Unit> Units => new List<Unit>
 		{
 			new Unit {Id = 1, Title = "Knight", Attack = 10, Defence = 10, BananaCost = 100},
@@ -16,6 +23,7 @@ namespace BlazorBattles.Client.Services
 		{
 			var unit = Units.First(u => u.Id == unitId);
 			MyUnits.Add(new UserUnit { UnitId = unit.Id, HitPoints = unit.HitPoints});
+			toastservice.ShowSuccess($"Your {unit.Title} has been built!");
 		}
 	}
 }

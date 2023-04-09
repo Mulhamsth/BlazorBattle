@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "iJlmFmie34hZt62+XJ5dv/bg+XabZcYMwxGFG/uscwo=",
+  "Hash": "GYorRlvjBERPwcBT8RAoJhn/wFw93FIAEH66YApsyns=",
   "Source": "BlazorBattles.Client",
   "BasePath": "/",
   "Mode": "Root",
@@ -16,6 +16,23 @@
     }
   ],
   "Assets": [
+    {
+      "Identity": "C:\\Users\\Mulhamsth\\.nuget\\packages\\blazored.toast\\4.1.0\\staticwebassets\\Blazored.Toast.bundle.scp.css",
+      "SourceId": "Blazored.Toast",
+      "SourceType": "Package",
+      "ContentRoot": "C:\\Users\\Mulhamsth\\.nuget\\packages\\blazored.toast\\4.1.0\\staticwebassets\\",
+      "BasePath": "_content/Blazored.Toast",
+      "RelativePath": "Blazored.Toast.bundle.scp.css",
+      "AssetKind": "All",
+      "AssetMode": "Reference",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "ScopedCss",
+      "AssetTraitValue": "ProjectBundle",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\Mulhamsth\\.nuget\\packages\\blazored.toast\\4.1.0\\staticwebassets\\Blazored.Toast.bundle.scp.css"
+    },
     {
       "Identity": "C:\\Users\\Mulhamsth\\github\\BlazorBattles\\BlazorBattles\\Client\\bin\\Debug\\net6.0\\wwwroot\\_framework\\blazor.boot.json",
       "SourceId": "BlazorBattles.Client",
@@ -117,6 +134,23 @@
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "C:\\Users\\Mulhamsth\\github\\BlazorBattles\\BlazorBattles\\Shared\\bin\\Debug\\net6.0\\BlazorBattles.Shared.pdb"
+    },
+    {
+      "Identity": "C:\\Users\\Mulhamsth\\github\\BlazorBattles\\BlazorBattles\\Client\\bin\\Debug\\net6.0\\wwwroot\\_framework\\Blazored.Toast.dll",
+      "SourceId": "BlazorBattles.Client",
+      "SourceType": "Computed",
+      "ContentRoot": "C:\\Users\\Mulhamsth\\github\\BlazorBattles\\BlazorBattles\\Client\\bin\\Debug\\net6.0\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "_framework/Blazored.Toast.dll",
+      "AssetKind": "Build",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "BlazorWebAssemblyResource",
+      "AssetTraitValue": "runtime",
+      "CopyToOutputDirectory": "PreserveNewest",
+      "CopyToPublishDirectory": "Never",
+      "OriginalItemSpec": "C:\\Users\\Mulhamsth\\.nuget\\packages\\blazored.toast\\4.1.0\\lib\\net6.0\\Blazored.Toast.dll"
     },
     {
       "Identity": "C:\\Users\\Mulhamsth\\github\\BlazorBattles\\BlazorBattles\\Client\\bin\\Debug\\net6.0\\wwwroot\\_framework\\dotnet.6.0.12.qdjtct3ivq.js",
@@ -252,7 +286,7 @@
       "AssetTraitValue": "runtime",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "C:\\Users\\Mulhamsth\\.nuget\\packages\\microsoft.aspnetcore.authorization\\6.0.11\\lib\\net6.0\\Microsoft.AspNetCore.Authorization.dll"
+      "OriginalItemSpec": "C:\\Users\\Mulhamsth\\.nuget\\packages\\microsoft.aspnetcore.authorization\\6.0.12\\lib\\net6.0\\Microsoft.AspNetCore.Authorization.dll"
     },
     {
       "Identity": "C:\\Users\\Mulhamsth\\github\\BlazorBattles\\BlazorBattles\\Client\\bin\\Debug\\net6.0\\wwwroot\\_framework\\Microsoft.AspNetCore.Components.dll",
@@ -269,7 +303,7 @@
       "AssetTraitValue": "runtime",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "C:\\Users\\Mulhamsth\\.nuget\\packages\\microsoft.aspnetcore.components\\6.0.11\\lib\\net6.0\\Microsoft.AspNetCore.Components.dll"
+      "OriginalItemSpec": "C:\\Users\\Mulhamsth\\.nuget\\packages\\microsoft.aspnetcore.components\\6.0.12\\lib\\net6.0\\Microsoft.AspNetCore.Components.dll"
     },
     {
       "Identity": "C:\\Users\\Mulhamsth\\github\\BlazorBattles\\BlazorBattles\\Client\\bin\\Debug\\net6.0\\wwwroot\\_framework\\Microsoft.AspNetCore.Components.Forms.dll",
@@ -286,7 +320,7 @@
       "AssetTraitValue": "runtime",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "C:\\Users\\Mulhamsth\\.nuget\\packages\\microsoft.aspnetcore.components.forms\\6.0.11\\lib\\net6.0\\Microsoft.AspNetCore.Components.Forms.dll"
+      "OriginalItemSpec": "C:\\Users\\Mulhamsth\\.nuget\\packages\\microsoft.aspnetcore.components.forms\\6.0.12\\lib\\net6.0\\Microsoft.AspNetCore.Components.Forms.dll"
     },
     {
       "Identity": "C:\\Users\\Mulhamsth\\github\\BlazorBattles\\BlazorBattles\\Client\\bin\\Debug\\net6.0\\wwwroot\\_framework\\Microsoft.AspNetCore.Components.Web.dll",
@@ -303,7 +337,7 @@
       "AssetTraitValue": "runtime",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "C:\\Users\\Mulhamsth\\.nuget\\packages\\microsoft.aspnetcore.components.web\\6.0.11\\lib\\net6.0\\Microsoft.AspNetCore.Components.Web.dll"
+      "OriginalItemSpec": "C:\\Users\\Mulhamsth\\.nuget\\packages\\microsoft.aspnetcore.components.web\\6.0.12\\lib\\net6.0\\Microsoft.AspNetCore.Components.Web.dll"
     },
     {
       "Identity": "C:\\Users\\Mulhamsth\\github\\BlazorBattles\\BlazorBattles\\Client\\bin\\Debug\\net6.0\\wwwroot\\_framework\\Microsoft.AspNetCore.Components.WebAssembly.dll",
@@ -337,7 +371,7 @@
       "AssetTraitValue": "runtime",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "C:\\Users\\Mulhamsth\\.nuget\\packages\\microsoft.aspnetcore.metadata\\6.0.11\\lib\\net6.0\\Microsoft.AspNetCore.Metadata.dll"
+      "OriginalItemSpec": "C:\\Users\\Mulhamsth\\.nuget\\packages\\microsoft.aspnetcore.metadata\\6.0.12\\lib\\net6.0\\Microsoft.AspNetCore.Metadata.dll"
     },
     {
       "Identity": "C:\\Users\\Mulhamsth\\github\\BlazorBattles\\BlazorBattles\\Client\\bin\\Debug\\net6.0\\wwwroot\\_framework\\Microsoft.CSharp.dll",
@@ -609,7 +643,7 @@
       "AssetTraitValue": "runtime",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "C:\\Users\\Mulhamsth\\.nuget\\packages\\microsoft.jsinterop\\6.0.11\\lib\\net6.0\\Microsoft.JSInterop.dll"
+      "OriginalItemSpec": "C:\\Users\\Mulhamsth\\.nuget\\packages\\microsoft.jsinterop\\6.0.12\\lib\\net6.0\\Microsoft.JSInterop.dll"
     },
     {
       "Identity": "C:\\Users\\Mulhamsth\\github\\BlazorBattles\\BlazorBattles\\Client\\bin\\Debug\\net6.0\\wwwroot\\_framework\\Microsoft.JSInterop.WebAssembly.dll",
@@ -3587,6 +3621,23 @@
       "OriginalItemSpec": "C:\\Users\\Mulhamsth\\github\\BlazorBattles\\BlazorBattles\\Client\\bin\\Debug\\net6.0\\wwwroot\\_framework\\BlazorBattles.Client.pdb"
     },
     {
+      "Identity": "C:\\Users\\Mulhamsth\\github\\BlazorBattles\\BlazorBattles\\Client\\obj\\Debug\\net6.0\\build-gz\\1wt1KyNW.gz",
+      "SourceId": "BlazorBattles.Client",
+      "SourceType": "Computed",
+      "ContentRoot": "C:\\Users\\Mulhamsth\\github\\BlazorBattles\\BlazorBattles\\Client\\bin\\Debug\\net6.0\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "_framework/Microsoft.JSInterop.dll.gz",
+      "AssetKind": "Build",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "RelatedAsset": "C:\\Users\\Mulhamsth\\github\\BlazorBattles\\BlazorBattles\\Client\\bin\\Debug\\net6.0\\wwwroot\\_framework\\Microsoft.JSInterop.dll",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "CopyToOutputDirectory": "PreserveNewest",
+      "CopyToPublishDirectory": "Never",
+      "OriginalItemSpec": "C:\\Users\\Mulhamsth\\github\\BlazorBattles\\BlazorBattles\\Client\\bin\\Debug\\net6.0\\wwwroot\\_framework\\Microsoft.JSInterop.dll"
+    },
+    {
       "Identity": "C:\\Users\\Mulhamsth\\github\\BlazorBattles\\BlazorBattles\\Client\\obj\\Debug\\net6.0\\build-gz\\24T2qFt9.gz",
       "SourceId": "BlazorBattles.Client",
       "SourceType": "Computed",
@@ -4114,23 +4165,6 @@
       "OriginalItemSpec": "C:\\Users\\Mulhamsth\\github\\BlazorBattles\\BlazorBattles\\Client\\bin\\Debug\\net6.0\\wwwroot\\_framework\\System.Transactions.dll"
     },
     {
-      "Identity": "C:\\Users\\Mulhamsth\\github\\BlazorBattles\\BlazorBattles\\Client\\obj\\Debug\\net6.0\\build-gz\\AjXjJHHQ.gz",
-      "SourceId": "BlazorBattles.Client",
-      "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\Mulhamsth\\github\\BlazorBattles\\BlazorBattles\\Client\\bin\\Debug\\net6.0\\wwwroot\\",
-      "BasePath": "/",
-      "RelativePath": "_framework/Microsoft.AspNetCore.Metadata.dll.gz",
-      "AssetKind": "Build",
-      "AssetMode": "All",
-      "AssetRole": "Alternative",
-      "RelatedAsset": "C:\\Users\\Mulhamsth\\github\\BlazorBattles\\BlazorBattles\\Client\\bin\\Debug\\net6.0\\wwwroot\\_framework\\Microsoft.AspNetCore.Metadata.dll",
-      "AssetTraitName": "Content-Encoding",
-      "AssetTraitValue": "gzip",
-      "CopyToOutputDirectory": "PreserveNewest",
-      "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "C:\\Users\\Mulhamsth\\github\\BlazorBattles\\BlazorBattles\\Client\\bin\\Debug\\net6.0\\wwwroot\\_framework\\Microsoft.AspNetCore.Metadata.dll"
-    },
-    {
       "Identity": "C:\\Users\\Mulhamsth\\github\\BlazorBattles\\BlazorBattles\\Client\\obj\\Debug\\net6.0\\build-gz\\AL57c6sT.gz",
       "SourceId": "BlazorBattles.Client",
       "SourceType": "Computed",
@@ -4214,23 +4248,6 @@
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "C:\\Users\\Mulhamsth\\github\\BlazorBattles\\BlazorBattles\\Client\\bin\\Debug\\net6.0\\wwwroot\\_framework\\System.Reflection.Emit.ILGeneration.dll"
-    },
-    {
-      "Identity": "C:\\Users\\Mulhamsth\\github\\BlazorBattles\\BlazorBattles\\Client\\obj\\Debug\\net6.0\\build-gz\\Atx9v7g9.gz",
-      "SourceId": "BlazorBattles.Client",
-      "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\Mulhamsth\\github\\BlazorBattles\\BlazorBattles\\Client\\bin\\Debug\\net6.0\\wwwroot\\",
-      "BasePath": "/",
-      "RelativePath": "_framework/Microsoft.AspNetCore.Authorization.dll.gz",
-      "AssetKind": "Build",
-      "AssetMode": "All",
-      "AssetRole": "Alternative",
-      "RelatedAsset": "C:\\Users\\Mulhamsth\\github\\BlazorBattles\\BlazorBattles\\Client\\bin\\Debug\\net6.0\\wwwroot\\_framework\\Microsoft.AspNetCore.Authorization.dll",
-      "AssetTraitName": "Content-Encoding",
-      "AssetTraitValue": "gzip",
-      "CopyToOutputDirectory": "PreserveNewest",
-      "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "C:\\Users\\Mulhamsth\\github\\BlazorBattles\\BlazorBattles\\Client\\bin\\Debug\\net6.0\\wwwroot\\_framework\\Microsoft.AspNetCore.Authorization.dll"
     },
     {
       "Identity": "C:\\Users\\Mulhamsth\\github\\BlazorBattles\\BlazorBattles\\Client\\obj\\Debug\\net6.0\\build-gz\\B+QsCFxD.gz",
@@ -4539,6 +4556,23 @@
       "OriginalItemSpec": "C:\\Users\\Mulhamsth\\github\\BlazorBattles\\BlazorBattles\\Client\\bin\\Debug\\net6.0\\wwwroot\\_framework\\System.Private.Xml.dll"
     },
     {
+      "Identity": "C:\\Users\\Mulhamsth\\github\\BlazorBattles\\BlazorBattles\\Client\\obj\\Debug\\net6.0\\build-gz\\dXx8ZLO6.gz",
+      "SourceId": "BlazorBattles.Client",
+      "SourceType": "Computed",
+      "ContentRoot": "C:\\Users\\Mulhamsth\\github\\BlazorBattles\\BlazorBattles\\Client\\bin\\Debug\\net6.0\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "_framework/Microsoft.AspNetCore.Components.Web.dll.gz",
+      "AssetKind": "Build",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "RelatedAsset": "C:\\Users\\Mulhamsth\\github\\BlazorBattles\\BlazorBattles\\Client\\bin\\Debug\\net6.0\\wwwroot\\_framework\\Microsoft.AspNetCore.Components.Web.dll",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "CopyToOutputDirectory": "PreserveNewest",
+      "CopyToPublishDirectory": "Never",
+      "OriginalItemSpec": "C:\\Users\\Mulhamsth\\github\\BlazorBattles\\BlazorBattles\\Client\\bin\\Debug\\net6.0\\wwwroot\\_framework\\Microsoft.AspNetCore.Components.Web.dll"
+    },
+    {
       "Identity": "C:\\Users\\Mulhamsth\\github\\BlazorBattles\\BlazorBattles\\Client\\obj\\Debug\\net6.0\\build-gz\\DZj9ScN8.gz",
       "SourceId": "BlazorBattles.Client",
       "SourceType": "Computed",
@@ -4656,23 +4690,6 @@
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "C:\\Users\\Mulhamsth\\github\\BlazorBattles\\BlazorBattles\\Client\\bin\\Debug\\net6.0\\wwwroot\\_framework\\System.Net.dll"
-    },
-    {
-      "Identity": "C:\\Users\\Mulhamsth\\github\\BlazorBattles\\BlazorBattles\\Client\\obj\\Debug\\net6.0\\build-gz\\eJOAR13Z.gz",
-      "SourceId": "BlazorBattles.Client",
-      "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\Mulhamsth\\github\\BlazorBattles\\BlazorBattles\\Client\\bin\\Debug\\net6.0\\wwwroot\\",
-      "BasePath": "/",
-      "RelativePath": "_framework/Microsoft.JSInterop.dll.gz",
-      "AssetKind": "Build",
-      "AssetMode": "All",
-      "AssetRole": "Alternative",
-      "RelatedAsset": "C:\\Users\\Mulhamsth\\github\\BlazorBattles\\BlazorBattles\\Client\\bin\\Debug\\net6.0\\wwwroot\\_framework\\Microsoft.JSInterop.dll",
-      "AssetTraitName": "Content-Encoding",
-      "AssetTraitValue": "gzip",
-      "CopyToOutputDirectory": "PreserveNewest",
-      "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "C:\\Users\\Mulhamsth\\github\\BlazorBattles\\BlazorBattles\\Client\\bin\\Debug\\net6.0\\wwwroot\\_framework\\Microsoft.JSInterop.dll"
     },
     {
       "Identity": "C:\\Users\\Mulhamsth\\github\\BlazorBattles\\BlazorBattles\\Client\\obj\\Debug\\net6.0\\build-gz\\EuHAWc67.gz",
@@ -5406,21 +5423,21 @@
       "OriginalItemSpec": "C:\\Users\\Mulhamsth\\github\\BlazorBattles\\BlazorBattles\\Client\\bin\\Debug\\net6.0\\wwwroot\\_framework\\System.Xml.XmlSerializer.dll"
     },
     {
-      "Identity": "C:\\Users\\Mulhamsth\\github\\BlazorBattles\\BlazorBattles\\Client\\obj\\Debug\\net6.0\\build-gz\\LQJwpBzU.gz",
+      "Identity": "C:\\Users\\Mulhamsth\\github\\BlazorBattles\\BlazorBattles\\Client\\obj\\Debug\\net6.0\\build-gz\\M+S4T7OR.gz",
       "SourceId": "BlazorBattles.Client",
       "SourceType": "Computed",
       "ContentRoot": "C:\\Users\\Mulhamsth\\github\\BlazorBattles\\BlazorBattles\\Client\\bin\\Debug\\net6.0\\wwwroot\\",
       "BasePath": "/",
-      "RelativePath": "_framework/Microsoft.AspNetCore.Components.Forms.dll.gz",
+      "RelativePath": "_framework/Microsoft.AspNetCore.Metadata.dll.gz",
       "AssetKind": "Build",
       "AssetMode": "All",
       "AssetRole": "Alternative",
-      "RelatedAsset": "C:\\Users\\Mulhamsth\\github\\BlazorBattles\\BlazorBattles\\Client\\bin\\Debug\\net6.0\\wwwroot\\_framework\\Microsoft.AspNetCore.Components.Forms.dll",
+      "RelatedAsset": "C:\\Users\\Mulhamsth\\github\\BlazorBattles\\BlazorBattles\\Client\\bin\\Debug\\net6.0\\wwwroot\\_framework\\Microsoft.AspNetCore.Metadata.dll",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "C:\\Users\\Mulhamsth\\github\\BlazorBattles\\BlazorBattles\\Client\\bin\\Debug\\net6.0\\wwwroot\\_framework\\Microsoft.AspNetCore.Components.Forms.dll"
+      "OriginalItemSpec": "C:\\Users\\Mulhamsth\\github\\BlazorBattles\\BlazorBattles\\Client\\bin\\Debug\\net6.0\\wwwroot\\_framework\\Microsoft.AspNetCore.Metadata.dll"
     },
     {
       "Identity": "C:\\Users\\Mulhamsth\\github\\BlazorBattles\\BlazorBattles\\Client\\obj\\Debug\\net6.0\\build-gz\\m6TMJaxt.gz",
@@ -5472,23 +5489,6 @@
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "C:\\Users\\Mulhamsth\\github\\BlazorBattles\\BlazorBattles\\Client\\bin\\Debug\\net6.0\\wwwroot\\_framework\\System.Security.SecureString.dll"
-    },
-    {
-      "Identity": "C:\\Users\\Mulhamsth\\github\\BlazorBattles\\BlazorBattles\\Client\\obj\\Debug\\net6.0\\build-gz\\mONDJyeC.gz",
-      "SourceId": "BlazorBattles.Client",
-      "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\Mulhamsth\\github\\BlazorBattles\\BlazorBattles\\Client\\bin\\Debug\\net6.0\\wwwroot\\",
-      "BasePath": "/",
-      "RelativePath": "_framework/Microsoft.AspNetCore.Components.Web.dll.gz",
-      "AssetKind": "Build",
-      "AssetMode": "All",
-      "AssetRole": "Alternative",
-      "RelatedAsset": "C:\\Users\\Mulhamsth\\github\\BlazorBattles\\BlazorBattles\\Client\\bin\\Debug\\net6.0\\wwwroot\\_framework\\Microsoft.AspNetCore.Components.Web.dll",
-      "AssetTraitName": "Content-Encoding",
-      "AssetTraitValue": "gzip",
-      "CopyToOutputDirectory": "PreserveNewest",
-      "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "C:\\Users\\Mulhamsth\\github\\BlazorBattles\\BlazorBattles\\Client\\bin\\Debug\\net6.0\\wwwroot\\_framework\\Microsoft.AspNetCore.Components.Web.dll"
     },
     {
       "Identity": "C:\\Users\\Mulhamsth\\github\\BlazorBattles\\BlazorBattles\\Client\\obj\\Debug\\net6.0\\build-gz\\mtMlm4hV.gz",
@@ -5814,6 +5814,23 @@
       "OriginalItemSpec": "C:\\Users\\Mulhamsth\\github\\BlazorBattles\\BlazorBattles\\Client\\bin\\Debug\\net6.0\\wwwroot\\_framework\\System.Reflection.Emit.Lightweight.dll"
     },
     {
+      "Identity": "C:\\Users\\Mulhamsth\\github\\BlazorBattles\\BlazorBattles\\Client\\obj\\Debug\\net6.0\\build-gz\\ps2FfRZi.gz",
+      "SourceId": "BlazorBattles.Client",
+      "SourceType": "Computed",
+      "ContentRoot": "C:\\Users\\Mulhamsth\\github\\BlazorBattles\\BlazorBattles\\Client\\bin\\Debug\\net6.0\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "_framework/Microsoft.AspNetCore.Components.Forms.dll.gz",
+      "AssetKind": "Build",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "RelatedAsset": "C:\\Users\\Mulhamsth\\github\\BlazorBattles\\BlazorBattles\\Client\\bin\\Debug\\net6.0\\wwwroot\\_framework\\Microsoft.AspNetCore.Components.Forms.dll",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "CopyToOutputDirectory": "PreserveNewest",
+      "CopyToPublishDirectory": "Never",
+      "OriginalItemSpec": "C:\\Users\\Mulhamsth\\github\\BlazorBattles\\BlazorBattles\\Client\\bin\\Debug\\net6.0\\wwwroot\\_framework\\Microsoft.AspNetCore.Components.Forms.dll"
+    },
+    {
       "Identity": "C:\\Users\\Mulhamsth\\github\\BlazorBattles\\BlazorBattles\\Client\\obj\\Debug\\net6.0\\build-gz\\Pzs6gUy1.gz",
       "SourceId": "BlazorBattles.Client",
       "SourceType": "Computed",
@@ -5863,23 +5880,6 @@
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "C:\\Users\\Mulhamsth\\github\\BlazorBattles\\BlazorBattles\\Client\\bin\\Debug\\net6.0\\wwwroot\\_framework\\System.Diagnostics.Process.dll"
-    },
-    {
-      "Identity": "C:\\Users\\Mulhamsth\\github\\BlazorBattles\\BlazorBattles\\Client\\obj\\Debug\\net6.0\\build-gz\\q2ASUo60.gz",
-      "SourceId": "BlazorBattles.Client",
-      "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\Mulhamsth\\github\\BlazorBattles\\BlazorBattles\\Client\\bin\\Debug\\net6.0\\wwwroot\\",
-      "BasePath": "/",
-      "RelativePath": "_framework/Microsoft.AspNetCore.Components.dll.gz",
-      "AssetKind": "Build",
-      "AssetMode": "All",
-      "AssetRole": "Alternative",
-      "RelatedAsset": "C:\\Users\\Mulhamsth\\github\\BlazorBattles\\BlazorBattles\\Client\\bin\\Debug\\net6.0\\wwwroot\\_framework\\Microsoft.AspNetCore.Components.dll",
-      "AssetTraitName": "Content-Encoding",
-      "AssetTraitValue": "gzip",
-      "CopyToOutputDirectory": "PreserveNewest",
-      "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "C:\\Users\\Mulhamsth\\github\\BlazorBattles\\BlazorBattles\\Client\\bin\\Debug\\net6.0\\wwwroot\\_framework\\Microsoft.AspNetCore.Components.dll"
     },
     {
       "Identity": "C:\\Users\\Mulhamsth\\github\\BlazorBattles\\BlazorBattles\\Client\\obj\\Debug\\net6.0\\build-gz\\Q4kUrj1T.gz",
@@ -6152,6 +6152,23 @@
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "C:\\Users\\Mulhamsth\\github\\BlazorBattles\\BlazorBattles\\Client\\bin\\Debug\\net6.0\\wwwroot\\_framework\\System.Runtime.Serialization.Json.dll"
+    },
+    {
+      "Identity": "C:\\Users\\Mulhamsth\\github\\BlazorBattles\\BlazorBattles\\Client\\obj\\Debug\\net6.0\\build-gz\\RGvr9XTi.gz",
+      "SourceId": "BlazorBattles.Client",
+      "SourceType": "Computed",
+      "ContentRoot": "C:\\Users\\Mulhamsth\\github\\BlazorBattles\\BlazorBattles\\Client\\bin\\Debug\\net6.0\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "_framework/Microsoft.AspNetCore.Components.dll.gz",
+      "AssetKind": "Build",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "RelatedAsset": "C:\\Users\\Mulhamsth\\github\\BlazorBattles\\BlazorBattles\\Client\\bin\\Debug\\net6.0\\wwwroot\\_framework\\Microsoft.AspNetCore.Components.dll",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "CopyToOutputDirectory": "PreserveNewest",
+      "CopyToPublishDirectory": "Never",
+      "OriginalItemSpec": "C:\\Users\\Mulhamsth\\github\\BlazorBattles\\BlazorBattles\\Client\\bin\\Debug\\net6.0\\wwwroot\\_framework\\Microsoft.AspNetCore.Components.dll"
     },
     {
       "Identity": "C:\\Users\\Mulhamsth\\github\\BlazorBattles\\BlazorBattles\\Client\\obj\\Debug\\net6.0\\build-gz\\Rr9QszkX.gz",
@@ -6509,6 +6526,40 @@
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "C:\\Users\\Mulhamsth\\github\\BlazorBattles\\BlazorBattles\\Client\\bin\\Debug\\net6.0\\wwwroot\\_framework\\System.Net.NameResolution.dll"
+    },
+    {
+      "Identity": "C:\\Users\\Mulhamsth\\github\\BlazorBattles\\BlazorBattles\\Client\\obj\\Debug\\net6.0\\build-gz\\vYZeZvFG.gz",
+      "SourceId": "BlazorBattles.Client",
+      "SourceType": "Computed",
+      "ContentRoot": "C:\\Users\\Mulhamsth\\github\\BlazorBattles\\BlazorBattles\\Client\\bin\\Debug\\net6.0\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "_framework/Blazored.Toast.dll.gz",
+      "AssetKind": "Build",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "RelatedAsset": "C:\\Users\\Mulhamsth\\github\\BlazorBattles\\BlazorBattles\\Client\\bin\\Debug\\net6.0\\wwwroot\\_framework\\Blazored.Toast.dll",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "CopyToOutputDirectory": "PreserveNewest",
+      "CopyToPublishDirectory": "Never",
+      "OriginalItemSpec": "C:\\Users\\Mulhamsth\\github\\BlazorBattles\\BlazorBattles\\Client\\bin\\Debug\\net6.0\\wwwroot\\_framework\\Blazored.Toast.dll"
+    },
+    {
+      "Identity": "C:\\Users\\Mulhamsth\\github\\BlazorBattles\\BlazorBattles\\Client\\obj\\Debug\\net6.0\\build-gz\\w2jt1Pz+.gz",
+      "SourceId": "BlazorBattles.Client",
+      "SourceType": "Computed",
+      "ContentRoot": "C:\\Users\\Mulhamsth\\github\\BlazorBattles\\BlazorBattles\\Client\\bin\\Debug\\net6.0\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "_framework/Microsoft.AspNetCore.Authorization.dll.gz",
+      "AssetKind": "Build",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "RelatedAsset": "C:\\Users\\Mulhamsth\\github\\BlazorBattles\\BlazorBattles\\Client\\bin\\Debug\\net6.0\\wwwroot\\_framework\\Microsoft.AspNetCore.Authorization.dll",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "CopyToOutputDirectory": "PreserveNewest",
+      "CopyToPublishDirectory": "Never",
+      "OriginalItemSpec": "C:\\Users\\Mulhamsth\\github\\BlazorBattles\\BlazorBattles\\Client\\bin\\Debug\\net6.0\\wwwroot\\_framework\\Microsoft.AspNetCore.Authorization.dll"
     },
     {
       "Identity": "C:\\Users\\Mulhamsth\\github\\BlazorBattles\\BlazorBattles\\Client\\obj\\Debug\\net6.0\\build-gz\\wFlneL53.gz",

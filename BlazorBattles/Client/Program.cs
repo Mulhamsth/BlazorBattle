@@ -2,7 +2,7 @@ using BlazorBattles.Client;
 using BlazorBattles.Client.Services;
 using Microsoft.AspNetCore.Components.Web;
 using Microsoft.AspNetCore.Components.WebAssembly.Hosting;
-using Blazored.Toast
+using Blazored.Toast;
 
 namespace BlazorBattles.Client
 {

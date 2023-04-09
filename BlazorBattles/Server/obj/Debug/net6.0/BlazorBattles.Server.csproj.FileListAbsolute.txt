@@ -51,3 +51,4 @@ C:\Users\Mulhamsth\github\BlazorBattles\BlazorBattles\Server\obj\Debug\net6.0\re
 C:\Users\Mulhamsth\github\BlazorBattles\BlazorBattles\Server\obj\Debug\net6.0\BlazorBattles.Server.pdb
 C:\Users\Mulhamsth\github\BlazorBattles\BlazorBattles\Server\obj\Debug\net6.0\BlazorBattles.Server.genruntimeconfig.cache
 C:\Users\Mulhamsth\github\BlazorBattles\BlazorBattles\Server\obj\Debug\net6.0\ref\BlazorBattles.Server.dll
+C:\Users\Mulhamsth\github\BlazorBattles\BlazorBattles\Server\bin\Debug\net6.0\Blazored.Toast.dll

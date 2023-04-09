@@ -608,12 +608,7 @@ C:\Users\Mulhamsth\github\BlazorBattles\BlazorBattles\Client\obj\Debug\net6.0\Bl
 C:\Users\Mulhamsth\github\BlazorBattles\BlazorBattles\Client\obj\Debug\net6.0\BlazorBattles.Client.AssemblyInfo.cs
 C:\Users\Mulhamsth\github\BlazorBattles\BlazorBattles\Client\obj\Debug\net6.0\BlazorBattles.Client.csproj.CoreCompileInputs.cache
 C:\Users\Mulhamsth\github\BlazorBattles\BlazorBattles\Client\obj\Debug\net6.0\BlazorBattles.Client.MvcApplicationPartsAssemblyInfo.cache
-C:\Users\Mulhamsth\github\BlazorBattles\BlazorBattles\Client\obj\Debug\net6.0\build-gz\Atx9v7g9.gz
-C:\Users\Mulhamsth\github\BlazorBattles\BlazorBattles\Client\obj\Debug\net6.0\build-gz\q2ASUo60.gz
-C:\Users\Mulhamsth\github\BlazorBattles\BlazorBattles\Client\obj\Debug\net6.0\build-gz\LQJwpBzU.gz
-C:\Users\Mulhamsth\github\BlazorBattles\BlazorBattles\Client\obj\Debug\net6.0\build-gz\mONDJyeC.gz
 C:\Users\Mulhamsth\github\BlazorBattles\BlazorBattles\Client\obj\Debug\net6.0\build-gz\FUH6ugl8.gz
-C:\Users\Mulhamsth\github\BlazorBattles\BlazorBattles\Client\obj\Debug\net6.0\build-gz\AjXjJHHQ.gz
 C:\Users\Mulhamsth\github\BlazorBattles\BlazorBattles\Client\obj\Debug\net6.0\build-gz\yGmjY5B9.gz
 C:\Users\Mulhamsth\github\BlazorBattles\BlazorBattles\Client\obj\Debug\net6.0\build-gz\HOcTR8wO.gz
 C:\Users\Mulhamsth\github\BlazorBattles\BlazorBattles\Client\obj\Debug\net6.0\build-gz\JENjhFe+.gz
@@ -628,7 +623,6 @@ C:\Users\Mulhamsth\github\BlazorBattles\BlazorBattles\Client\obj\Debug\net6.0\bu
 C:\Users\Mulhamsth\github\BlazorBattles\BlazorBattles\Client\obj\Debug\net6.0\build-gz\QhlZ8vlh.gz
 C:\Users\Mulhamsth\github\BlazorBattles\BlazorBattles\Client\obj\Debug\net6.0\build-gz\DZj9ScN8.gz
 C:\Users\Mulhamsth\github\BlazorBattles\BlazorBattles\Client\obj\Debug\net6.0\build-gz\0ck+l6bi.gz
-C:\Users\Mulhamsth\github\BlazorBattles\BlazorBattles\Client\obj\Debug\net6.0\build-gz\eJOAR13Z.gz
 C:\Users\Mulhamsth\github\BlazorBattles\BlazorBattles\Client\obj\Debug\net6.0\build-gz\+Na9Fez6.gz
 C:\Users\Mulhamsth\github\BlazorBattles\BlazorBattles\Client\obj\Debug\net6.0\build-gz\Gm9mtBSG.gz
 C:\Users\Mulhamsth\github\BlazorBattles\BlazorBattles\Client\obj\Debug\net6.0\build-gz\vf0p0nLD.gz
@@ -827,3 +821,13 @@ C:\Users\Mulhamsth\github\BlazorBattles\BlazorBattles\Client\obj\Debug\net6.0\re
 C:\Users\Mulhamsth\github\BlazorBattles\BlazorBattles\Client\obj\Debug\net6.0\BlazorBattles.Client.pdb
 C:\Users\Mulhamsth\github\BlazorBattles\BlazorBattles\Client\obj\Debug\net6.0\ref\BlazorBattles.Client.dll
 C:\Users\Mulhamsth\github\BlazorBattles\BlazorBattles\Client\obj\Debug\net6.0\scopedcss\Shared\TopMenu.razor.rz.scp.css
+C:\Users\Mulhamsth\github\BlazorBattles\BlazorBattles\Client\bin\Debug\net6.0\wwwroot\_framework\Blazored.Toast.dll
+C:\Users\Mulhamsth\github\BlazorBattles\BlazorBattles\Client\bin\Debug\net6.0\wwwroot\_framework\Blazored.Toast.dll.gz
+C:\Users\Mulhamsth\github\BlazorBattles\BlazorBattles\Client\bin\Debug\net6.0\Blazored.Toast.dll
+C:\Users\Mulhamsth\github\BlazorBattles\BlazorBattles\Client\obj\Debug\net6.0\build-gz\vYZeZvFG.gz
+C:\Users\Mulhamsth\github\BlazorBattles\BlazorBattles\Client\obj\Debug\net6.0\build-gz\w2jt1Pz+.gz
+C:\Users\Mulhamsth\github\BlazorBattles\BlazorBattles\Client\obj\Debug\net6.0\build-gz\RGvr9XTi.gz
+C:\Users\Mulhamsth\github\BlazorBattles\BlazorBattles\Client\obj\Debug\net6.0\build-gz\ps2FfRZi.gz
+C:\Users\Mulhamsth\github\BlazorBattles\BlazorBattles\Client\obj\Debug\net6.0\build-gz\dXx8ZLO6.gz
+C:\Users\Mulhamsth\github\BlazorBattles\BlazorBattles\Client\obj\Debug\net6.0\build-gz\M+S4T7OR.gz
+C:\Users\Mulhamsth\github\BlazorBattles\BlazorBattles\Client\obj\Debug\net6.0\build-gz\1wt1KyNW.gz
