@@ -15,7 +15,7 @@ namespace BlazorBattles.Client.Services
 		{
 			new Unit {Id = 1, Title = "Knight", Attack = 10, Defence = 10, BananaCost = 100},
 			new Unit {Id = 2, Title = "Archer", Attack = 15, Defence = 5, BananaCost = 150},
-			new Unit {Id = 3, Title = "Knight", Attack = 20, Defence = 1, BananaCost = 200},
+			new Unit {Id = 3, Title = "Mage", Attack = 20, Defence = 1, BananaCost = 200},
 		};
 		public IList<UserUnit> MyUnits { get; set; } = new List<UserUnit>();
 

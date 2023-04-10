@@ -831,3 +831,4 @@ C:\Users\Mulhamsth\github\BlazorBattles\BlazorBattles\Client\obj\Debug\net6.0\bu
 C:\Users\Mulhamsth\github\BlazorBattles\BlazorBattles\Client\obj\Debug\net6.0\build-gz\dXx8ZLO6.gz
 C:\Users\Mulhamsth\github\BlazorBattles\BlazorBattles\Client\obj\Debug\net6.0\build-gz\M+S4T7OR.gz
 C:\Users\Mulhamsth\github\BlazorBattles\BlazorBattles\Client\obj\Debug\net6.0\build-gz\1wt1KyNW.gz
+C:\Users\Mulhamsth\github\BlazorBattles\BlazorBattles\Client\obj\Debug\net6.0\scopedcss\Pages\Register.razor.rz.scp.css

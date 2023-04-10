@@ -1,12 +1,14 @@
 ﻿@page "/register"
 @inject IUnitService UnitService
+@inject IJSRuntime JSRuntime
+@inject NavigationManager NavigationManager
 
 <h3>Register</h3>
 
 <EditForm Model="user" OnValidSubmit="HandleRegistration">
 	<DataAnnotationsValidator></DataAnnotationsValidator>
 	<div class="mb-3">
-		<label for="email">Email</label>
+		<label for="email" class="required">Email</label>
 		<InputText id="email" @bind-Value="user.Email" class="form-control"></InputText>
 		<ValidationMessage For="@(() => user.Email)" />
 	</div>
@@ -16,7 +18,7 @@
 		<ValidationMessage For="@(() => user.Username)" />
 	</div>
 	<div class="mb-3">
-		<label for="password">Password</label>
+		<label for="password" class="required">Password</label>
 		<InputText id="password" @bind-Value="user.Password" class="form-control" type="password"></InputText>
 		<ValidationMessage For="@(() => user.Password)" />
 	</div>
@@ -31,12 +33,17 @@
 	</div>
 	<div class="mb-3">
 		<label for="startUnit">Start Unit</label>
-		<InputSelect id="startUnit" @bind-Value="user.StartUnitId" class="form-control">
+		<InputRadioGroup id="startUnit" @bind-Value="user.StartUnitId" class="form-control">
+			<br />
 			@foreach (var unit in UnitService.Units)
 			{
-				<option value="@unit.Id">@unit.Title</option>
+				<InputRadio Value="@unit.Id" />
+
+				<span style="padding-left: 5px;">@unit.Title</span>
+
+				<br />
 			}
-		</InputSelect>
+		</InputRadioGroup>
 	</div>
 	<div class="mb-3">
 		<label for="bananas">Bananas</label>
@@ -61,6 +68,7 @@
 
 	void HandleRegistration()
 	{
-		Console.WriteLine("Store this new User in the Database");
+		JSRuntime.InvokeVoidAsync("console.log", user);
+		NavigationManager.NavigateTo("login");
 	}
 }
